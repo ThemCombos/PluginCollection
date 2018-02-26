@@ -1232,5 +1232,12 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
-    }
+    },
+    {
+	    "name": "featherboard (2)",
+	    "desc": "Custom Scoreboard!",
+	    "jarName": "featherboard(2).jar",
+	    "configname": "featherboard",
+	    
+	}
 ]
